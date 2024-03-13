@@ -1,11 +1,8 @@
-# Nodejs FES Template
+# Nodejs
 
 # Environment vars
 This project uses the following environment variables:
 
-| Name                          | Description                         | Default Value                                  |
-| ----------------------------- | ------------------------------------| -----------------------------------------------|
-|CORS           | Cors accepted values            | "*"      |
 
 
 # Pre-requisites
